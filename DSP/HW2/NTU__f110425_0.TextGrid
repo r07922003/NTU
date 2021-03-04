@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.1455 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "RCDIF" 
+        xmin = 0 
+        xmax = 2.1455 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08120662826285342 
+            text = "b_u" 
+        intervals [2]:
+            xmin = 0.08120662826285342 
+            xmax = 0.17791322384695296 
+            text = "u" 
+        intervals [3]:
+            xmin = 0.17791322384695296 
+            xmax = 0.2653303674225467 
+            text = "sic_i" 
+        intervals [4]:
+            xmin = 0.2653303674225467 
+            xmax = 0.41549996933268607 
+            text = "iau" 
+        intervals [5]:
+            xmin = 0.41549996933268607 
+            xmax = 0.5478132836035689 
+            text = "l_u" 
+        intervals [6]:
+            xmin = 0.5478132836035689 
+            xmax = 0.7169761942273035 
+            text = "uo" 
+        intervals [7]:
+            xmin = 0.7169761942273035 
+            xmax = 0.8422966323568927 
+            text = "l_u" 
+        intervals [8]:
+            xmin = 0.8422966323568927 
+            xmax = 1.0079831974528508 
+            text = "uo" 
+        intervals [9]:
+            xmin = 1.0079831974528508 
+            xmax = 1.1367736839599694 
+            text = "s_u" 
+        intervals [10]:
+            xmin = 1.1367736839599694 
+            xmax = 1.3130922411122472 
+            text = "uo" 
+        intervals [11]:
+            xmin = 1.3130922411122472 
+            xmax = 1.4215361271700473 
+            text = "s_u" 
+        intervals [12]:
+            xmin = 1.4215361271700473 
+            xmax = 1.6467790581918569 
+            text = "uo" 
+        intervals [13]:
+            xmin = 1.6467790581918569 
+            xmax = 1.8198652340084216 
+            text = "d_e" 
+        intervals [14]:
+            xmin = 1.8198652340084216 
+            xmax = 2.1455 
+            text = "e" 
